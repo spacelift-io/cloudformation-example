@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: '2010-09-09'
-Description: A simple EC2 instance
+Description: A simple EC2 instance with better description
 Resources:
   Function1Stack:
     Type: AWS::CloudFormation::Stack
